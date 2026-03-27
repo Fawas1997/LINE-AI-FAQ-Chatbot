@@ -1,0 +1,6 @@
+line-bot-sdk
+pinecone
+cohere
+groq
+requests
+urllib3<2.0.0

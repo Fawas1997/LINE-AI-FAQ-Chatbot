@@ -1,0 +1,24 @@
+# Ignore environment variables
+.env
+
+# Ignore Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Ignore AWS Lambda deployment files
+package/
+deployment_package.zip
+build_log.txt
+
+# Ignore temporary/testing scripts
+check_zip.py
+
+# Ignore IDE settings
+.vscode/
+.idea/
+.DS_Store
