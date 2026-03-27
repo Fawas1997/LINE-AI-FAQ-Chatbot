@@ -78,4 +78,4 @@ python build_lambda.py
 -   **User Feedback:** มี Loading Animation บอกสถานะการทำงานของบอท
 
 ---
-พัฒนาโดย Fawas Thongkam
+พัฒนาโดย Fawas Thongkham
