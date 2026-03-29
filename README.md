@@ -1,4 +1,4 @@
-# 🤖 AI LINE Chatbot RAG (AIBeacon Helper)
+# 🤖 AI LINE Chatbot RAG 
 
 แชทบอทอัจฉริยะสำหรับให้ข้อมูลผลิตภัณฑ์ **AIBeacon** โดยใช้สถาปัตยกรรม **RAG (Retrieval-Augmented Generation)** ผสานพลังของ LLM ความเร็วสูงและฐานข้อมูล Vector เพื่อการตอบคำถามที่แม่นยำและรวดเร็ว
 
